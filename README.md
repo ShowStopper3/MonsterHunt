@@ -21,7 +21,7 @@ Run Main.java directly.
 
 Description
 -------------
-Monster-Hunt is a Java (text) based implementation of a monster hunt game.
+Monster-Hunt is a Java (text) based implementation of a hunt game.
 
 This game is in its initial state where player can walk 
 through the game, find items and fight with some _nice_ Monsters! and save and resume the game at any point.
