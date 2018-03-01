@@ -21,15 +21,7 @@ Run Main.java directly.
 
 Description
 -------------
-Monster-Hunt is a Java (text) based implementation of a game, having following stories:
-
-● As a player You can to create a character
-
-● As a player You can to explore
-
-● As a player You can to gain experience through fighting
-
-● As a player You can to save and resume a game
+Monster-Hunt is a Java (text) based implementation of a monster hunt game.
 
 This game is in its initial state where player can walk 
 through the game, find items and fight with some _nice_ Monsters! and save and resume the game at any point.
