@@ -5,6 +5,20 @@ CODING TEST : MONSTER-HUNT (JAVA BASED TEXT GAME)
 
 **Sachin Sachdeva** - *ssachdev* - [ShowStopper3](https://github.com/ShowStopper3)
 
+How to build and run 
+-------------
+*Maven :*
+
+Run **mvn clean package** , it does a compile and creates the target directory, including a jar:
+
+Run **java -jar** on generated jar from maven.
+
+*Eclipse:*
+
+Run Main.java directly.
+
+**Note: It is recomended to run via maven as I have included certain test cases that is the part of mvane build itself.**
+
 Description
 -------------
 Monster-Hunt is a Java (text) based implementation of a game, having following stories:
