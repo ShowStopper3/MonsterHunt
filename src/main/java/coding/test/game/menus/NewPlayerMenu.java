@@ -33,6 +33,7 @@ public class NewPlayerMenu extends BaseMenu {
 			new GameServices(player, "new");
 			return true;
 		} else if (key.equals("sewerrat")) {
+		   QueueServices.offer("Sorry, Work in progress for sewerrat, you can play with recruit only :");
 			return false;
 		} else {
 			return false;
